@@ -1,0 +1,8 @@
+# Local generation runs and reference material. The release package lives in /varka.
+/pet-runs/
+/references/
+/storyboards/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
